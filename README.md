@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Türrös diák, nem-sulis githubom: https://github.com/ItzKernel
+- 💻Nyelvek: HTML, CSS, C#, Java, (c++ valamennyire)
+- 🖥Saját webszerver: https://satella.xyz
