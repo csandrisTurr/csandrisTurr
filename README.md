@@ -1,4 +1,4 @@
-### Üdv 👋
+### Hello 👋
 
 <!--
 **csandrisTurr/csandrisTurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👦 Türrös diák, nem-sulis githubom: https://github.com/ItzKernel
-- 💻 Nyelvek: HTML, CSS, C#, Java, (c++ valamennyire)
-- 🖥 Saját webszerver: https://satella.xyz
+- 👦 Türrös diák
+- 💻 Nyelvek: `(html-css), Python, JavaScript/Typescript, Rust`
+- 💻 Egyéb nyelvek amiket használtam de olyan rég hogy már elfelejtettem a felét: `Java, C#, PHP`
+- 🖥 Saját webszerver: `már nincs D:`
+
+- Saját projektjeimet nem ezen a profilon tartom, ezt csak sulis cuccokra használom
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csandrisTurr&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
