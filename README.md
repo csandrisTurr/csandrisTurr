@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 💻 Egyéb nyelvek amiket használtam de olyan rég hogy már elfelejtettem a felét: `Java, C#, PHP`
 - 🖥 Saját webszerver: `már nincs D:`
 
-- Saját projektjeimet nem ezen a profilon tartom, ezt csak sulis cuccokra használom
+- Saját projektjeimet nem ezen a profilon tartom (pedig amúgy nagyon menők), ezt csak sulis cuccokra használom
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csandrisTurr&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
