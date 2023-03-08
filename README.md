@@ -1,24 +1,10 @@
-### Hello 👋
-
-<!--
-**csandrisTurr/csandrisTurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello
 - 👦 Türrös diák
-- 💻 Nyelvek: `(html-css), Python, JavaScript/Typescript, Rust`
-- 💻 Egyéb nyelvek amiket használtam de olyan rég hogy már elfelejtettem a felét: `Java, C#, PHP`
-- 🖥 Saját webszerver: `már nincs D:`
+- 💻 Nyelvek: `(HTML-CSS/SCSS), python, JavaScript/TypeScript, C#, rust`
+- 💻 Egyéb nyelvek amiket olyan rég használtam, hogy már elfelejtettem a felét: `Java, PHP`
 
-- Saját projektjeimet nem ezen a profilon tartom (pedig amúgy nagyon menők), ezt csak sulis cuccokra használom
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csandrisTurr&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> **Warning**
+> Ezt a profilt csak sulis cuccokra használom  
+> Elérhetőség: csaszarandras@turr.hu
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csandrisTurr&layout=compact&theme=radical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
